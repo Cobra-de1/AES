@@ -10,7 +10,7 @@
 
     - Select mode from screen (using switch case)
   
-    - Support modes:  ECB, CBC, OFB, CFB, CTR, XTS, CCM, GCM.
+    - Support modes:  ECB, CBC, OFB, CFB, CTR, XTS, CCM, GCM
 
 +) Choose key length, iv length
 
@@ -18,7 +18,7 @@
 
     select from screen (using switch case)
 
-    Case 1: Secret key and IV are randomly chosen for each run time using random generator using CryptoPP::AutoSeededRandomPool;
+    Case 1: Secret key and IV are randomly chosen for each run time using random generator using CryptoPP::AutoSeededRandomPool
 
     Case 2: Input Secret Key and IV from screen
 
@@ -32,7 +32,7 @@
 
 +) Plaintext: 
 
-    - Input from screen;
+    - Input from screen
 
     - Support Vietnamese (UTF-16)
 
